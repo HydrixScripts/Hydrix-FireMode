@@ -1,7 +1,7 @@
 {
 	"name": "hydrix_firemode",
 	"version": "3.2.0",
-	"description": "FiveM IMGUI framework",
+	"description": "firemode toggle utilizing gui /keybinds using vein",
 	"keywords": [
 		"fivem",
 		"gui",
