@@ -12,4 +12,4 @@ This is a Weapon Fire mode Toggle.  Designed in TypeScript for QBCore Framework.
 5.) ```thinking of making in depth support for custom weapon models rather than haging to config all of them make it possible to declare a stream folder / shared folders```
 
 
-DO NOT DOWNLOAD THIS THESE ARE NOT EVEN ALL THE FILES NECESSARY TO RUN THE CURRENT BUILD IM WORKING ON. PLEASE WAIT UNTIL V1 RELEASE....
+DO NOT DOWNLOAD THIS THESE ARE NOT EVEN ALL THE FILES NECESSARY TO RUN THE CURRENT BUILD IM WORKING ON. PLEASE WAIT UNTIL V1 RELEASE.... BASICALLY MY PLACEHOLDER FOR MY FILES IN EDITING
