@@ -1,7 +1,7 @@
 {
 	"name": "hydrix_firemode",
-	"version": "3.2.0",
-	"description": "firemode toggle utilizing gui /keybinds using vein",
+	"version": "1.0.0",
+	"description": "firemode toggle utilizing gui / keybinds",
 	"keywords": [
 		"fivem",
 		"gui",
@@ -10,10 +10,9 @@
 		"ui",
 		"client"
 	],
-	"homepage": "https://github.com/warxander/vein",
+	"homepage": "https://https://github.com/HydrixScripts/Hydrix-FireMode",
 	"license": "APSL-2.0",
-	"author": "Warxander (https://github.com/warxander)",
-	"funding": "https://boosty.to/warxander",
+	"author": "HydrixScripts (https://github.com/HydrixScripts)",
 	"dependencies": {
 		"@adobe/css-tools": "4.2.0"
 	},
