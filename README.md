@@ -7,7 +7,7 @@ This is a Weapon Fire mode Toggle.  Designed in TypeScript for QBCore Framework.
 
 3.) ```thinking of ways to implements more config options for multiple scenarios or instances for servers using diff frameworks```
 
-4.) ```thinking of switching to svelte```
+4.) ```thinking of switching to svelte rather than editing vein to accomidate a custom gui to make new weapons and add diff progress options... replace gui all together to make a simple admin with ace perms.config file and make all nui based```
 
 5.) ```thinking of making in depth support for custom weapon models rather than haging to config all of them make it possible to declare a stream folder / shared folders```
 
