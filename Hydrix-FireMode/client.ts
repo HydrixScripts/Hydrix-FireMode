@@ -7,6 +7,7 @@ const weaponsWithBurstFire = [
 ];
 
 const safetyToggleKey = 311;
+const switchFiringModeKey = 76; // Define the key code for switching firing modes here
 let weaponSafety = true;
 let firemode = 0; // 0 = full-auto, 1 = burst, 2 = single
 
